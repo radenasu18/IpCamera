@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Gasoline Station
+rtsp://adminHAG:chevrolet@192.168.0.181:554/onvif/stream1
+#EXTINF:0,Outdoor Garage
+rtsp://adminHAG:chevrolet@192.168.0.182:554/onvif/stream1
+#EXTINF:0,Workshop
+rtsp://adminHAG:chevrolet@192.168.0.183:554/onvif/stream1
